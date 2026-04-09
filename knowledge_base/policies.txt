@@ -1,0 +1,40 @@
+=== WORKSPACE POLICIES ===
+
+OFFICE HOURS:
+The workspace is open Monday to Friday from 8:00 AM to 10:00 PM.
+On weekends, the space is open from 9:00 AM to 6:00 PM.
+
+CANCELLATION POLICY:
+Bookings can be cancelled up to 24 hours in advance for a full refund.
+Cancellations made within 24 hours are non-refundable.
+
+MEETING ROOMS:
+Meeting rooms can be booked for a minimum of 1 hour and a maximum of 8 hours per day.
+Rooms must be cleaned and vacated 10 minutes before the next booking.
+
+DESK BOOKING:
+Hot desks are available on a first-come, first-served basis.
+Dedicated desks can be reserved monthly.
+
+AMENITIES:
+All memberships include high-speed WiFi, printing (up to 50 pages/month),
+coffee and tea, and access to common areas.
+Premium memberships also include access to private phone booths and lockers.
+
+MEMBERSHIP PLANS:
+- Basic: Hot desk access, weekdays only — $99/month
+- Standard: Hot desk access, all days — $149/month
+- Premium: Dedicated desk + all amenities — $299/month
+
+MAINTENANCE:
+Report any maintenance issues to the front desk or via the AI copilot.
+Issues are typically resolved within 24-48 hours.
+
+GUEST POLICY:
+Members may bring up to 2 guests per visit. Guests must sign in at reception.
+Guest day passes are available for $15/day.
+
+PAYMENT:
+Invoices are generated on the 1st of each month.
+Payment is due within 7 days of invoice generation.
+Accepted payment methods: credit card, bank transfer.

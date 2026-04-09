@@ -1,0 +1,16 @@
+# Secret keys - NEVER upload these
+.env
+
+# Virtual environment - too large to upload
+venv/
+
+# Database file
+bookings.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store

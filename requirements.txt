@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-pinecone
+langgraph
+pinecone-client
+python-dotenv
+openai
+langsmith
+mcp
+httpx
